@@ -4,3 +4,6 @@
 [submodule "clojure-mode"]
 	path = clojure-mode
 	url = https://github.com/technomancy/clojure-mode.git
+[submodule "haskell-mode"]
+	path = haskell-mode
+	url = https://github.com/haskell/haskell-mode.git
