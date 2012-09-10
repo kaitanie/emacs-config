@@ -1,0 +1,3 @@
+[submodule "nrepl.el"]
+	path = nrepl.el
+	url = git://github.com/kingtim/nrepl.el.git
