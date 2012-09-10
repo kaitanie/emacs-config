@@ -1,3 +1,6 @@
 [submodule "nrepl.el"]
 	path = nrepl.el
 	url = git://github.com/kingtim/nrepl.el.git
+[submodule "clojure-mode"]
+	path = clojure-mode
+	url = https://github.com/technomancy/clojure-mode.git
