@@ -7,3 +7,6 @@
 [submodule "haskell-mode"]
 	path = haskell-mode
 	url = https://github.com/haskell/haskell-mode.git
+[submodule "hamlet-mode"]
+	path = hamlet-mode
+	url = git://github.com/lightquake/hamlet-mode.git
