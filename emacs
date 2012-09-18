@@ -41,3 +41,8 @@
 
 ;; nRepl
 (load "~/emacs-config/nrepl.el/nrepl.el")
+
+;; Magit
+(add-to-list 'load-path "~/emacs-config/magit/")
+(require 'magit)
+(require 'magit-topgit)

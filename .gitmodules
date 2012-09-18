@@ -10,3 +10,6 @@
 [submodule "hamlet-mode"]
 	path = hamlet-mode
 	url = git://github.com/lightquake/hamlet-mode.git
+[submodule "magit"]
+	path = magit
+	url = git://github.com/magit/magit.git
