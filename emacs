@@ -46,3 +46,7 @@
 (add-to-list 'load-path "~/emacs-config/magit/")
 (require 'magit)
 (require 'magit-topgit)
+
+;; Protobuf-mode
+(add-to-list 'load-path "~/emacs-config/protobuf-mode/")
+(require 'protobuf-mode)
